@@ -1,0 +1,16 @@
+.submit{
+  padding: 10px;
+  color: white;
+  background-color: green;
+  border-radius: 10px;
+  width: 15%;
+  display: grid;
+  
+}
+
+.App{
+  border-radius: 6px;
+  padding: 5px;
+  width: 20%;
+  
+}
